@@ -132,4 +132,4 @@ Imaginez une carte de produit ou d'article simple, présentant les éléments su
 *   **Interactivité :** Ajoutez un effet de survol plus complexe à la carte entière (par exemple, un léger agrandissement ou un changement d'ombre).
 *   **Mode sombre :** Implémentez une version "mode sombre" de votre carte en utilisant les variantes de mode sombre de Tailwind.
 
-Amusez-vous bien avec ce TP ! C'est une excellente occasion de renforcer vos compétences avec Tailwind CSS.
+Amusez-vous bien avec ce TP !
