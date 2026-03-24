@@ -113,16 +113,4 @@ Une fois les étapes précédentes validées, vous pouvez explorer les extension
 *   Pour une intégration plus propre et pour que Tailwind reconnaisse ces couleurs dans ses utilitaires JIT (Just-In-Time), explorez comment étendre la configuration de Tailwind (`tailwind.config.js`) avec vos couleurs personnalisées.
 *   Cela pourrait impliquer de générer un objet JavaScript depuis Sass (via un script Node.js par exemple) ou de définir les couleurs directement dans le fichier de configuration de Tailwind, en utilisant les mêmes noms que ceux de votre carte Sass. L'objectif est de pouvoir écrire `bg-primary` et que Tailwind le reconnaisse *nativement* sans avoir à générer manuellement le CSS via Sass.
 
-### Conseils pour l'utilisation de l'IA
-
-N'hésitez pas à utiliser des outils d'IA pour vous aider à générer le code Sass ou à comprendre les fonctions spécifiques (comme `darken()` ou `lighten()`). Cependant, assurez-vous de bien comprendre chaque ligne de code générée. L'objectif est d'apprendre, pas seulement de copier-coller.
-
-Voici quelques exemples de prompts que vous pourriez utiliser :
-*   "Comment créer une carte Sass avec des noms de couleurs et leurs valeurs hexadécimales ?"
-*   "Comment utiliser la directive `@each` en Sass pour itérer sur une carte et générer des classes CSS ?"
-*   "Quelle fonction Sass permet d'assombrir une couleur de 10% ?"
-*   "Comment étendre la palette de couleurs de Tailwind CSS dans `tailwind.config.js` ?"
-
-Bon courage pour ce TP ! C'est une excellente occasion de maîtriser l'automatisation CSS.
-
----
+Bon courage pour ce TP ! 
