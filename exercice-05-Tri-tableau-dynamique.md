@@ -1,5 +1,5 @@
 
-# TP — Plugin Tailwind : Table triable réutilisable
+# TP Plugin Tailwind : Table triable réutilisable
 ## Objectifs pédagogiques
 
 * Créer un **plugin Tailwind**
@@ -72,7 +72,7 @@ project/
 
 ---
 
-# Étape 1 — Base Tailwind
+# Base Tailwind
 
 Dans `tailwind.config.js` :
 
@@ -90,7 +90,7 @@ module.exports = {
 
 ---
 
-# Étape 2 — Création du plugin Tailwind
+# Création du plugin Tailwind
 
 `plugins/sortableTable.js`
 
@@ -117,7 +117,7 @@ module.exports = function ({ addComponents }) {
 
 ---
 
-# Étape 3 — Style via Tailwind
+# Style via Tailwind
 
 Contraintes :
 
@@ -133,7 +133,7 @@ Exemple :
 
 ---
 
-# Étape 4 — Logique JS générique
+# Logique JS générique
 
 `main.js`
 
@@ -182,7 +182,7 @@ function updateSortUI(headers, activeTh, order) {
 
 ---
 
-# Étape 5 — HTML des données - data.js
+# HTML des données - data.js
 
 ```js
 const users = [
@@ -196,7 +196,7 @@ const users = [
 
 ---
 
-# Étape 6 — Tests
+# Tests
 
 Vérifier :
 
