@@ -118,15 +118,6 @@ Imaginez une carte de produit ou d'article simple, présentant les éléments su
     *   Assurez-vous que la carte est centrée sur la page (par exemple, en utilisant Flexbox sur le `body` ou un conteneur parent).
     *   Vérifiez la responsivité de la carte. Comment se comporte-t-elle sur différentes tailles d'écran ?
 
-#### **Conseils pour l'utilisation de l'IA :**
-
-L'utilisation d'outils d'IA pour vous aider à trouver les classes Tailwind appropriées est encouragée. Par exemple, vous pouvez demander :
-*   "Comment faire un div avec des coins arrondis et une ombre en Tailwind CSS ?"
-*   "Quelles classes Tailwind pour un bouton bleu avec texte blanc et effet hover ?"
-*   "Donne-moi le HTML de base pour une carte avec une image, un titre, un paragraphe et un bouton."
-
-L'objectif n'est pas de copier-coller sans comprendre, mais d'utiliser l'IA comme un assistant intelligent pour accélérer votre apprentissage et votre développement. Soyez prêt à expliquer pourquoi vous avez choisi certaines classes.
-
 #### **Critères de validation :**
 
 *   La carte reproduit visuellement le design décrit.
@@ -141,4 +132,4 @@ L'objectif n'est pas de copier-coller sans comprendre, mais d'utiliser l'IA comm
 *   **Interactivité :** Ajoutez un effet de survol plus complexe à la carte entière (par exemple, un léger agrandissement ou un changement d'ombre).
 *   **Mode sombre :** Implémentez une version "mode sombre" de votre carte en utilisant les variantes de mode sombre de Tailwind.
 
-Amusez-vous bien avec ce TP ! C'est une excellente occasion de renforcer vos compétences avec Tailwind CSS.
+Amusez-vous bien avec ce TP !
